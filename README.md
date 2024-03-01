@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Askar Abylkhaiyrov</h1>
 <h3 align="center">I'm a student at SDU university (internet name), and I'm currently learning Golang and Java and looking for internship Open to collaborating on interesting and innovative projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thqu1et&label=Profile%20views&color=0e75b6&style=flat" alt="thqu1et" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thqu1et" alt="thqu1et" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thqu1et" target="blank"><img src="https://img.shields.io/twitter/follow/thqu1et?logo=twitter&style=for-the-badge" alt="thqu1et" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **askar.abylkhaiyrov.00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thqu1et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thqu1et" height="30" width="40" /></a>
-<a href="https://twitter.com/thqu1et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thqu1et" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/askar-abylkhaiyrov-741178267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/askar-abylkhaiyrov-741178267" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/thqu1et/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thqu1et/" height="30" width="40" /></a>
-<a href="https://medium.com/@thqu1et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thqu1et" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kz10_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kz10_/" height="30" width="40" /></a>
-<a href="/www.linkedin.com/in/askar-abylkhaiyrov-741178267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.linkedin.com/in/askar-abylkhaiyrov-741178267" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
